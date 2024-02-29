@@ -27,5 +27,5 @@
 https://dhwlsvy.tistory.com/
 
 ### 포트폴리오
-Project 1: Our Neighborhoods(아파트 커뮤니티)<br>
+Project 1: Our Neighborhood(아파트 커뮤니티)<br>
 Project 2: MeetGo(재능 공유사이트)
